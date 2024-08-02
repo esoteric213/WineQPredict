@@ -1,1 +1,2 @@
 # WineQPredict
+The quality of red wine is a multifaceted concept influenced by a variety of physicochemical properties. In the highly competitive wine industry, ensuring consistent quality is paramount for producers aiming to meet consumer expectations and maintain market share.However, determining wine quality traditionally relies on the expertise of human tasters, which can be subjective and inconsistent. This project aims to address this challenge by developing a predictive model that can accurately assess the quality of red wine based on its chemical attributes.
